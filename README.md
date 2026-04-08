@@ -44,9 +44,8 @@ Then invoke it from any Claude Code session.
 
 ## Credits
 
-- **Source material**: Martin Fowler's books, essays at martinfowler.com, conference talks, and podcast appearances. All rights to those original works belong to him.
-- **Generation pipeline**: The research-to-skill synthesis was assisted by the [`nuwa`](https://github.com/) Claude Code skill.
-- **Compiled by**: [@whyy9527](https://github.com/whyy9527) — light research and editorial work; the heavy lifting is Fowler's writing.
+- **Source material**: Martin Fowler's books, essays at martinfowler.com, conference talks, and podcast appearances. All rights to those original works belong to him. The substance of this skill is his thinking.
+- **Generation pipeline**: The research-to-skill synthesis was assisted by the `nuwa` Claude Code skill.
 
 ## Disclaimer
 
