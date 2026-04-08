@@ -1,0 +1,4 @@
+experiment	score	max_score	pass_rate	status	change
+baseline-v1	30	30	100%	discarded-eval	原eval suite过于宽松，评测agent识别出真实弱点但满分通过
+baseline-v2	29	30	96.7%	baseline	收紧eval至: Recursive Skepticism / Attribution / 术语密度≥2 / Parenthetical hedge / Inductive opener
+experiment-1	30	30	100%	keep	表达DNA新增"术语锚定硬约束"——偏离核心领域时强制从Technical Debt/YAGNI/Semantic Diffusion等池中挑锚
