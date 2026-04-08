@@ -42,10 +42,9 @@ git clone https://github.com/whyy9527/martin-fowler-perspective.git \
 
 Then invoke it from any Claude Code session.
 
-## Credits
+## Source material
 
-- **Source material**: Martin Fowler's books, essays at martinfowler.com, conference talks, and podcast appearances. All rights to those original works belong to him. The substance of this skill is his thinking.
-- **Generation pipeline**: The research-to-skill synthesis was assisted by the `nuwa` Claude Code skill.
+Martin Fowler's books, essays at martinfowler.com, conference talks, and podcast appearances. All rights to those original works belong to him. The substance of this skill is his thinking.
 
 ## Disclaimer
 

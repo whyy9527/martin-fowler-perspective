@@ -61,8 +61,3 @@ ADDITIONAL NOTES SPECIFIC TO THIS WORK
    views, opinions, or statements. Users and downstream adapters must
    not present this skill's output as authentic quotes from, or
    endorsements by, Martin Fowler.
-
-3. Generation tooling
-   The structural research and synthesis pipeline used to produce this
-   skill was assisted by the "nuwa" Claude Code skill. Credit to its
-   author for the underlying methodology.
