@@ -42,10 +42,18 @@ git clone https://github.com/whyy9527/martin-fowler-perspective.git \
 
 Then invoke it from any Claude Code session.
 
+## Credits
+
+- **Source material**: Martin Fowler's books, essays at martinfowler.com, conference talks, and podcast appearances. All rights to those original works belong to him.
+- **Generation pipeline**: The research-to-skill synthesis was assisted by the [`nuwa`](https://github.com/) Claude Code skill.
+- **Compiled by**: [@whyy9527](https://github.com/whyy9527) — light research and editorial work; the heavy lifting is Fowler's writing.
+
 ## Disclaimer
 
-This skill speaks *from* Martin Fowler's published perspective — books, talks, and articles. It is not Martin Fowler, does not represent his personal views, and is not endorsed by him. Treat its output as a useful lens, not as authoritative quotes.
+This skill speaks *from* Martin Fowler's published perspective — books, talks, and articles. It is **not** Martin Fowler, does not represent his personal views, and is **not** endorsed by him. Treat its output as a useful lens, not as authoritative quotes.
 
 ## License
 
-MIT
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+In short: share and remix freely with attribution, but no commercial use, and derivatives must use the same license. See [`LICENSE`](./LICENSE) for the full text and additional notes about source attribution and persona use.
